@@ -2,7 +2,8 @@
 
 A production-style deep learning application that classifies images as **cat** or **dog** using a Convolutional Neural Network (CNN). Built with a decoupled architecture — a **FastAPI** backend serving the model via REST API, and a **Streamlit** frontend consuming it — allowing the model to be used independently of any single UI.
 
-🔗 **Live Demo:** [Add your Streamlit app link here]
+🔗 **Live Demo:** [https://cat-vs-dog-image-classification-dl-project-app.streamlit.app/]
+
 🔗 **API Docs:** [cat-vs-dog-image-classification-dl-project-production.up.railway.app]
 
 ---
