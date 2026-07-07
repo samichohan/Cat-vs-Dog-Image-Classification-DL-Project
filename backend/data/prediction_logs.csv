@@ -1,0 +1,5 @@
+timestamp,source,predicted_class,confidence
+2026-07-06T17:15:50.185207,upload,dog,0.9069
+2026-07-06T17:18:21.461707,upload,dog,0.9069
+2026-07-06T17:20:21.778258,upload,cat,0.9968
+2026-07-06T17:20:47.395427,upload,dog,0.9069
